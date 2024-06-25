@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mohd Amish</h1>
-<h3 align="center">Data science Enthusiast</h3>
+<h3 align="center">Data science and Analytics Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amish027&label=Profile%20views&color=0e75b6&style=flat" alt="amish027" /> </p>
 
-- I'm currently working on **Data Analytics**
+- I'm currently working on: **Data Analytics**
 
-- 📫 How to reach me **siddiquiamish62@gmail.com**
+- Databases: **MySQL,PostgreSQL**
 
-- 📄 Know about my experiences [file:///C:/Users/mdami/OneDrive/Desktop/MOHD%20%20%20AMISH%20DS.pdf](file:///C:/Users/mdami/OneDrive/Desktop/MOHD%20%20%20AMISH%20DS.pdf)
+- Data Analysis: **EDA, Statistical Analysis**
+
+- Data Visualization: **Tableau, PowerBI, Excel Charts**
+
+- Reach me at: [siddiquiamish62@gmail.com](siddiquiamish62@gmail.com)
+
+- Programming Languages: **Python,SQL**
+
+- Python Libraries: **Pandas,Matplotlib,Seaborn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
