@@ -11,8 +11,6 @@
 
 - Data Visualization: **Tableau, PowerBI, Excel Charts**
 
-- Reach me at: [siddiquiamish62@gmail.com](siddiquiamish62@gmail.com)
-
 - Programming Languages: **Python,SQL**
 
 - Python Libraries: **Pandas,Matplotlib,Seaborn**
