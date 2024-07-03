@@ -13,7 +13,7 @@
 
 - Programming Languages: **Python,SQL**
 
-- Python Libraries: **Pandas,Matplotlib,Seaborn**
+- Python Libraries: **Pandas,Matplotlib,Seaborn,sklearn**
 
 - Mail: **siddiquiamish62@gmail.com**
 
