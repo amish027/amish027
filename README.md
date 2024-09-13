@@ -5,11 +5,11 @@
 
 - I'm currently working on: **Data Analytics**
 
-- Databases: **MySQL,PostgreSQL**
+- Databases: **MySQL**
 
 - Data Analysis: **EDA, Statistical Analysis**
 
-- Data Visualization: **Tableau, PowerBI, Excel Charts**
+- Data Visualization: **Tableau, Excel Charts**
 
 - Programming Languages: **Python,SQL**
 
